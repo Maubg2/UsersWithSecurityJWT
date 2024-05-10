@@ -1,2 +1,2 @@
 # UsersWithSecurityJWT
-Es una API creada en Java (spring boot, spring security JWT) con la finalidad de usar varias herramientas que nos brinda Spring. Se hace autorización y validación de tokens, se asignan diferentes funciones dependiendo el rol usando spring security y se implementan cors para controlar solicitudes HTTP. 
+It is an API created in Java (spring boot, spring security JWT) with the purpose of using various tools that Spring provides us. Authorization and validation of tokens is done, different functions are assigned depending on the role using spring security and cors is implemented to control HTTP requests.
